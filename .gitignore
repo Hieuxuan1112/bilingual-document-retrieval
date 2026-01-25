@@ -1,0 +1,26 @@
+# Python & Jupyter
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Large files & temp data
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.xlsx
+vi_doc_*.pdf
+english*.pdf
+sample_files/
+data/
+
+# Misc
+.DS_Store
+Thumbs.db

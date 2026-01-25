@@ -1,0 +1,6 @@
+# Force LF for text files, especially notebooks
+* text=auto eol=lf
+*.ipynb text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
